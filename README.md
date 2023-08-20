@@ -12,7 +12,6 @@
     -   [Motif discovery](docs/4_usage.md#motif-discovery)
 -   [Frequently asked questions](docs/5_faq.md)
 -   [Copyright and License](docs/6_copyright_and_license.md)
--   [Tutorial](https://clipipe.readthedocs.io/)
 
 This documentation is for CLIPipe version: 1.0.3
 
