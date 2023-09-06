@@ -8,9 +8,9 @@
 
          mkdir clipipe_test;
          cd clipipe_test;
-         wget http://clipipe.ncrnalab.org/clipipe_ref.tar.gz;
-         wget http://clipipe.ncrnalab.org/clipipe_demo.tar.gz;
-         wget http://clipipe.ncrnalab.org/CLIPipe_v1.0.3_.tar.gz;
+         wget http://bioinfo.hupo.org.cn/clipipe_ref.tar.gz;
+         wget http://bioinfo.hupo.org.cn/clipipe_demo.tar.gz;
+         wget http://bioinfo.hupo.org.cn/CLIPipe_v1.0.3_.tar.gz;
          tar -xvzf clipipe_ref.tar.gz;
          tar -xvzf clipipe_demo.tar.gz;
 
